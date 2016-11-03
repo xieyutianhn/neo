@@ -1,7 +1,7 @@
 {
   "name": "canbefree/neo",
   "homepage":"https://github.com/canbefree/neo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "auth":{
     "name":"neo",
     "email":"xieyutianhn@gmail.com"
