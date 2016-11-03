@@ -1,4 +1,14 @@
 {
   "name": "canbefree/neo",
-  "version": "0.0.1"
+  "homepage":"https://github.com/canbefree/neo",
+  "version": "0.0.1",
+  "auth":{
+    "name":"neo",
+    "email":"xieyutianhn@gmail.com"
+  },
+  "autoload":{
+    "psr-0":{
+      "neo":"src"
+    }
+  }
 }
