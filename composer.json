@@ -1,6 +1,7 @@
 {
   "name": "canbefree/neo",
   "homepage":"https://github.com/canbefree/neo",
+  "description": "The SSO Boyaa login",
   "version": "0.0.2",
   "auth":{
     "name":"neo",
@@ -8,7 +9,7 @@
   },
   "autoload":{
     "psr-4":{
-      "Neo\\":"src/Test"
+      "Neo\\":"src/"
     }
   },
   "type":"library",
