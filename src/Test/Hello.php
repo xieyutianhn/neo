@@ -1,13 +1,12 @@
 <?php
-
 /**
  * Created by PhpStorm.
  * User: NeoXie
  * Date: 2016/11/3
- * Time: 15:44
+ * Time: 17:33
  */
-namespace Neo;
-class test
-{
+namespace Test;
+
+class Hello{
 
 }

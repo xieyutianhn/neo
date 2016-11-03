@@ -3,5 +3,5 @@
 
 require "vendor/autoload.php";
 
-$test = new \Neo\Test();
+$test = new \Test\Hello();
 
