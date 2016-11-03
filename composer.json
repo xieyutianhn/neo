@@ -2,7 +2,7 @@
   "name": "canbefree/neo",
   "homepage":"https://github.com/canbefree/neo",
   "description": "The SSO Boyaa login",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "auth":{
     "name":"neo",
     "email":"xieyutianhn@gmail.com"
@@ -13,6 +13,5 @@
     }
   },
   "type":"library",
-  "license": "BSD-3-Clause",
-  "minimum-stability":"0.0.2"
+  "license": "BSD-3-Clause"
 }
