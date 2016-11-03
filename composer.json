@@ -8,9 +8,9 @@
   },
   "autoload":{
     "psr-4":{
-      "Neo\\":"src/"
+      "Neo\\":"src/Test"
     }
   },
-
+  "type":"library",
   "license": "BSD-3-Clause"
 }
