@@ -7,8 +7,9 @@
     "email":"xieyutianhn@gmail.com"
   },
   "autoload":{
-    "psr-0":{
-      "neo":"src"
+    "psr-4":{
+      "Neo\\":"src/"
     }
-  }
+  },
+  "license": "BSD-3-Clause"
 }
